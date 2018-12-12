@@ -1,0 +1,30 @@
+1 正在执行zip -> csv
+week1.csv
+已解压完zip文件/home/zhangxin/yuqing_hot_mining3/udf/week1.tar.gz
+2 正在执行csv -> origin
+成功删除csv原文件/home/zhangxin/yuqing_hot_mining3/udf
+3 正在执行origin -> product
+4 正在执行product -> seq_result
+5 正在执行seq_result -> seg_wc
+6 正在执行seg_wc -> loacl
+7 正在执行local -> mysql
+1 正在执行zip -> csv
+week2.csv
+已解压完zip文件/home/zhangxin/yuqing_hot_mining3/udf/week2.tar.gz
+2 正在执行csv -> origin
+成功删除csv原文件/home/zhangxin/yuqing_hot_mining3/udf
+3 正在执行origin -> product
+4 正在执行product -> seq_result
+5 正在执行seq_result -> seg_wc
+6 正在执行seg_wc -> loacl
+7 正在执行local -> mysql
+1 正在执行zip -> csv
+week3.csv
+已解压完zip文件/home/zhangxin/yuqing_hot_mining3/udf/week3.tar.gz
+2 正在执行csv -> origin
+成功删除csv原文件/home/zhangxin/yuqing_hot_mining3/udf
+3 正在执行origin -> product
+4 正在执行product -> seq_result
+5 正在执行seq_result -> seg_wc
+6 正在执行seg_wc -> loacl
+7 正在执行local -> mysql

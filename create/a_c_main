@@ -1,0 +1,8 @@
+#! /bin/bash
+
+sh weibo_origin.sh
+sh weibo_product.sh
+sh weibo_seq.result_v2.sh
+
+sh weibo_stopwords.sh
+sh weibo_seg_wc_v2.sh
